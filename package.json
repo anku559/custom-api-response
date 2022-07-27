@@ -7,6 +7,11 @@
     "dev": "nodemon ./src/index.ts",
     "build": "npx tsc"
   },
+  "homepage": "https://github.com/anku559/custom-api-response.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anku559/custom-api-response.git"
+  },
   "author": "Ankit Singh Chondawat",
   "license": "ISC",
   "devDependencies": {
